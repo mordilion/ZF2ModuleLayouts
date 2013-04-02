@@ -1,0 +1,24 @@
+{
+    "name": "mordilion/zf2-module-layouts",
+    "description": "ZF2-ModuleLayouts is a simple module to build module specified layouts",
+    "type": "library",
+    "keywords": [
+        "zf2"
+    ],
+    "homepage": "https://github.com/mordilion/ZF2ModuleLayouts",
+    "authors": [
+        {
+            "name": "Henning Huncke",
+            "email": "info@devjunkie.de",
+            "homepage": "http://www.devjunkie.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
