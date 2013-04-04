@@ -1,9 +1,9 @@
 {
     "name": "mordilion/zf2-module-layouts",
-    "description": "ZF2-ModuleLayouts is a simple module to build module specified layouts",
+    "description": "ZF2ModuleLayouts is a simple module to build module specified layouts",
     "type": "library",
     "keywords": [
-        "zf2"
+        "zf2, module layouts, layouts"
     ],
     "homepage": "https://github.com/mordilion/ZF2ModuleLayouts",
     "authors": [
