@@ -3,9 +3,11 @@
     "description": "ZF2ModuleLayouts is a simple module to build module specified layouts",
     "type": "library",
     "keywords": [
-        "zf2 module layouts"
+        "zf2",
+        "module layouts"
     ],
     "homepage": "https://github.com/mordilion/ZF2ModuleLayouts",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Henning Huncke",
