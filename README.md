@@ -18,7 +18,7 @@ Create a new config file under "config/autoload" with the following specify:
 
 return array(
     'module_layouts' => array(
-        'ModuleName' => 'layout/layout.phtml',
+        'ModuleName' => 'layout',
     ),
 );
 ```
